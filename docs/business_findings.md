@@ -15,7 +15,7 @@
 
 ## 3. Customer Behavior
 
-- Among customers with an identified, nonblank customer ID, **2,845 of 4,338 customers (65.58%)** had more than one qualifying invoice.
+- Among customers with an identified, nonblank customer ID, **2,845 of 4,339 customers (65.58%)** had more than one qualifying invoice.
 - Average recorded sales value per identified customer was £2,048.69.
 - The repeat-customer share describes purchasing behavior within the observed dataset period. It is not a cohort retention rate or proof of future loyalty.
 - **Suggested follow-up:** Segment customers by recency, frequency, and monetary value (RFM). If additional historical data is available, investigate changes in purchasing behavior over time.
@@ -41,7 +41,7 @@ Cancellation-line value is not necessarily lost revenue or net financial impact.
 | Recorded sales value | £10,642,110.80 |
 | Distinct qualifying invoices | 19,960 |
 | Units sold | 5,572,420 |
-| Identified customers | 4,338 |
+| Identified customers | 4,339 |
 | Customers with more than one qualifying invoice | 2,845 |
 | Repeat-customer share | 65.58% |
 | Countries represented | 38 |
