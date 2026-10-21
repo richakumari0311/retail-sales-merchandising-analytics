@@ -1,0 +1,23 @@
+Retail dataset cleaning report
+=============================
+Input rows: 541,909
+Exact duplicate rows found: 5,268
+Rows with missing customer ID before cleaning: 135,080
+Cancellation rows identified before duplicate removal: 9,288
+Rows with negative quantity before cleaning: 10,624
+Rows with zero or negative unit price before cleaning: 2,517
+Rows after exact-duplicate removal: 536,641
+Analysis-ready sales rows: 524,878
+Cancellation rows exported: 9,251
+
+Sales inclusion rules:
+- Invoice number does not begin with C
+- Quantity is greater than zero
+- Unit price is greater than zero
+- Invoice date is valid
+
+Notes:
+- Missing customer IDs are retained in sales data and excluded from
+  customer-level analysis.
+- Cancellation records are exported separately.
+- Line value is quantity multiplied by unit price. It is not profit.

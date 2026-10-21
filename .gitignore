@@ -1,0 +1,23 @@
+
+# Local datasets and generated data files
+data/*.xlsx
+data/*.csv
+data/*.sqlite
+data/*.sqlite3
+data/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.bak
