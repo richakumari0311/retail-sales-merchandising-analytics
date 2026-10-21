@@ -151,7 +151,7 @@ Ensure customer-level metrics exclude blank and NULL customer IDs. Retain those 
 - **Recorded sales value:** £10,642,110.80 across 19,960 distinct invoices.
 - **Units sold:** 5,572,420 across 524,878 qualifying sales rows.
 - **Highest monthly sales value:** November 2011, at £1,503,866.78.
-- **Repeat purchasing:** 2,845 of 4,339 identified customers (65.58%) had more than one qualifying invoice.
+- **Repeat purchasing:** 2,845 of 4,339 identified customers (65.57%) had more than one qualifying invoice.
 - **Average sales value per identified customer:** £2,048.69.
 - **Geographic performance:** The dataset covers 38 countries, with the United Kingdom recording the highest sales value.
 - **Partial reporting period:** December 2011 is incomplete because the source data ends on 9 December 2011.
