@@ -49,7 +49,7 @@ The following results were obtained from the cleaned dataset and SQL analysis:
 | Distinct qualifying invoices | 19,960 |
 | Units sold | 5,572,420 |
 | Sales value | £10,642,110.80 |
-| Identified customers | 4,338 |
+| Identified customers | 4,339 |
 | Repeat customers | 2,845 |
 | Repeat-customer share | 65.58% |
 | Average sales value per identified customer | £2,048.69 |
